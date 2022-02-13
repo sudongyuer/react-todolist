@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/sudongyuer/react-todolist",
+  "homepage": "https://sudongyuer.github.io/react-todolist/",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.9.0",

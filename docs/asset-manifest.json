@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sudongyuer/react-todolist/static/css/main.3ec646e0.chunk.css",
-    "main.js": "/sudongyuer/react-todolist/static/js/main.dc338c72.chunk.js",
-    "main.js.map": "/sudongyuer/react-todolist/static/js/main.dc338c72.chunk.js.map",
-    "runtime~main.js": "/sudongyuer/react-todolist/static/js/runtime~main.92833da0.js",
-    "runtime~main.js.map": "/sudongyuer/react-todolist/static/js/runtime~main.92833da0.js.map",
-    "static/js/2.de0d90ba.chunk.js": "/sudongyuer/react-todolist/static/js/2.de0d90ba.chunk.js",
-    "static/js/2.de0d90ba.chunk.js.map": "/sudongyuer/react-todolist/static/js/2.de0d90ba.chunk.js.map",
-    "index.html": "/sudongyuer/react-todolist/index.html",
-    "precache-manifest.26b2ace5f9c8335ee5edfef288c97546.js": "/sudongyuer/react-todolist/precache-manifest.26b2ace5f9c8335ee5edfef288c97546.js",
-    "service-worker.js": "/sudongyuer/react-todolist/service-worker.js",
-    "static/css/main.3ec646e0.chunk.css.map": "/sudongyuer/react-todolist/static/css/main.3ec646e0.chunk.css.map"
+    "main.css": "/react-todolist/static/css/main.3ec646e0.chunk.css",
+    "main.js": "/react-todolist/static/js/main.dc338c72.chunk.js",
+    "main.js.map": "/react-todolist/static/js/main.dc338c72.chunk.js.map",
+    "runtime~main.js": "/react-todolist/static/js/runtime~main.8b2e420c.js",
+    "runtime~main.js.map": "/react-todolist/static/js/runtime~main.8b2e420c.js.map",
+    "static/js/2.de0d90ba.chunk.js": "/react-todolist/static/js/2.de0d90ba.chunk.js",
+    "static/js/2.de0d90ba.chunk.js.map": "/react-todolist/static/js/2.de0d90ba.chunk.js.map",
+    "index.html": "/react-todolist/index.html",
+    "precache-manifest.47817e5f28903129533891403b1af31b.js": "/react-todolist/precache-manifest.47817e5f28903129533891403b1af31b.js",
+    "service-worker.js": "/react-todolist/service-worker.js",
+    "static/css/main.3ec646e0.chunk.css.map": "/react-todolist/static/css/main.3ec646e0.chunk.css.map"
   }
 }
